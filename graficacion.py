@@ -2,9 +2,7 @@ import matplotlib.pyplot as plt
 from sympy import *
 import numpy as np
 x = Symbol('X')
-
 y = exp(x)
-
 xmin = -5
 xmax = 6
 h = 0.1
