@@ -6,8 +6,8 @@ x = Symbol('X')
 y = exp(x)
 
 xmin = -5
-xmax = 5
-h = 1
+xmax = 6
+h = 0.1
 xx = np.arange(xmin,xmax,h)
 n = len(xx)
 
