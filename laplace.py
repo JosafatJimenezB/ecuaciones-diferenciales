@@ -1,4 +1,5 @@
 import sympy as sp
+import numpy as np
 t=sp.Symbol('t',positive=True)
 s=sp.Symbol('s',positive=True)
 #dy=sp.cos(2*t)
